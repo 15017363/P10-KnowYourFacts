@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a15017363.p10_knowyourfacts.Frag3">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Most dust particles in your house are made from dead skin!\n\nThe present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.\n\nWomen blink nearly twice as much as men."
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+</FrameLayout>

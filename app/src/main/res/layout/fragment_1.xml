@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a15017363.p10_knowyourfacts.Frag1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Coca-Cola would be green if colouring weren’t added to it.\n\nMore people are allergic to cow's milk than any other food.\n\nHoney is the only food that does not spoil. Honey found in the tombs of Egyptian pharaohs has been tasted by archaeologists and found edible.
+"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+</FrameLayout>

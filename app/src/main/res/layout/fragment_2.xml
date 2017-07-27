@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a15017363.p10_knowyourfacts.Frag2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Your ribs move about 5 million times a year, everytime you breathe! \n\nLike fingerprints, everyone's tongue print is different! \n\nYour heart beats over 100,000 times a day! "
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+</FrameLayout>
